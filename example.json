@@ -1,0 +1,689 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "臼杵市民会館",
+        "description": "大分県臼杵市大字臼杵72-83",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.80638,
+          33.125483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "社会福祉センター",
+        "description": "大分県臼杵市大字臼杵4-1",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.798483,
+          33.12165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "諏訪山体育館",
+        "description": "大分県臼杵市大字諏訪595-5",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.797373,
+          33.132787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "臼杵市柔剣道場",
+        "description": "大分県臼杵市大字臼杵81-95",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.802442,
+          33.124515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "臼杵中央公民館",
+        "description": "大分県臼杵市大字臼杵2-107-562",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.807496,
+          33.123266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "野津中央公民館",
+        "description": "大分県臼杵市野津町大字野津市184",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.693936,
+          33.045051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "中臼杵農村環境改善センター",
+        "description": "大分県臼杵市大字武山1838",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.730527,
+          33.104091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "臼杵小学校",
+        "description": "大分県臼杵市大字臼杵65",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.800189,
+          33.124709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "福良ヶ丘小学校（体育館含）",
+        "description": "大分県臼杵市大字福良360-1",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.7943117,
+          33.1147484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "市浜小学校",
+        "description": "大分県臼杵市大字戸室503",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.787184,
+          33.118408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "下南小学校",
+        "description": "大分県臼杵市大字望月815",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.772911,
+          33.102842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "海辺小学校",
+        "description": "大分県臼杵市大字大浜173",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.80845,
+          33.136764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "佐志生小学校",
+        "description": "大分県臼杵市大字佐志生3015-1",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.827601,
+          33.177042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "下ノ江小学校",
+        "description": "大分県臼杵市大字大野1955",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.80617,
+          33.152453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "下北小学校",
+        "description": "大分県臼杵市大字稲田862",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.790109,
+          33.145104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "上北小学校",
+        "description": "大分県臼杵市大字末広2487-2",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.757102,
+          33.139763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "臼杵市文化財管理センター",
+        "description": "大分県臼杵市大字吉小野4296",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.730537,
+          33.109312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "臼杵南小学校",
+        "description": "大分県臼杵市大字掻懐1483",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.757472,
+          33.091472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "野津小学校",
+        "description": "大分県臼杵市野津町大字山頭3100",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.699531,
+          33.045407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "旧田野小学校",
+        "description": "大分県臼杵市野津町大字亀甲4014",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.721112,
+          33.046131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "川登小学校",
+        "description": "大分県臼杵市野津町大字清水原1341",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.717915,
+          33.005674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "南野津小学校",
+        "description": "大分県臼杵市野津町大字西畑600",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.66721,
+          33.012827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東中学校",
+        "description": "大分県臼杵市大字臼杵71-18",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.802909,
+          33.125321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "西中学校",
+        "description": "大分県臼杵市大字戸室535",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.785757,
+          33.1193864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "北中学校",
+        "description": "大分県臼杵市大字江無田132-1",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.790164,
+          33.130531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "南中学校",
+        "description": "大分県臼杵市大字掻懐2227",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.749497,
+          33.09706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "野津中学校",
+        "description": "大分県臼杵市野津町大字野津市666",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.687526,
+          33.037686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "戸上ふれあい広場",
+        "description": "大分県臼杵市野津町大字西寒田2989",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.660103,
+          33.064619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "都松地区ふれあいセンター",
+        "description": "大分県臼杵市野津町大字都原1014",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.7119,
+          33.06674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "上浦・深江地区コミュニティセンター",
+        "description": "大分県臼杵市大字深江1509",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.880189,
+          33.12165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "宮本地域体育館",
+        "description": "大分県臼杵市大字東神野3402",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.774102,
+          33.03988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "西神野ふれ愛センター",
+        "description": "大分県臼杵市野津町大字西神野1070",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.76163,
+          33.031848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "臼杵高等学校",
+        "description": "大分県臼杵市大字海添2521",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.804969,
+          33.117863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "海洋科学高等学校",
+        "description": "大分県臼杵市大字諏訪254-1-2",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.804835,
+          33.135546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "南野津地区公民館",
+        "description": "大分県臼杵市野津町大字吉田161",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.665151,
+          33.015548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "田野地区公民館",
+        "description": "大分県臼杵市野津町大字亀甲4010",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.721203,
+          33.046466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "臼杵支援学校",
+        "description": "大分県臼杵市大字井村911",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.777347,
+          33.142328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "市浜地区コミュニティセンター",
+        "description": "大分県臼杵市大字前田1851-8",
+        "marker-size": "",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.780078,
+          33.117441
+        ]
+      }
+    }
+  ]
+}
